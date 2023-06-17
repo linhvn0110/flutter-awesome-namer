@@ -1,1 +1,1 @@
-lib/*.dart linguist-language=Flutter
+*.dart linguist-detectable=false
